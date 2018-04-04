@@ -6,3 +6,4 @@ test04.1
 test05.1
 test10
 test11
+test12
